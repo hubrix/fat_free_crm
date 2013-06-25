@@ -4,7 +4,7 @@
 # See MIT-LICENSE file or http://www.opensource.org/licenses/mit-license.php
 #------------------------------------------------------------------------------
 
-require './lib/missing_translation_detector.rb'
+#require './lib/missing_translation_detector.rb'
 
 namespace :ffcrm do
   namespace :missing_translations do
